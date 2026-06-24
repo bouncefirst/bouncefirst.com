@@ -1,0 +1,10 @@
+# Local reference only — old site scrape, not part of the published site
+/bouncefirst.com/
+
+# Local-only working directories (notes, drafts, future plans pages, etc.)
+/docs/
+/plans/
+
+# macOS / editor cruft
+.DS_Store
+**/.DS_Store
