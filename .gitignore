@@ -8,3 +8,6 @@
 # macOS / editor cruft
 .DS_Store
 **/.DS_Store
+
+# Design handoff reference — never commit
+/design_handoff_portfolio/
